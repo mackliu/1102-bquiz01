@@ -16,6 +16,7 @@ $(document).ready(function(e) {
 function lo(x)
 {
 	location.replace(x)
+	
 }
 function op(x,y,url)
 {
